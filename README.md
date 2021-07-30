@@ -4,4 +4,4 @@ Layan's custom advancements datapack for Minecraft
 
 This datapack adds 13 new advancements to the game.
 
-Youtube video link: will add soon
+Youtube video link: https://youtu.be/JgsPNP9jvJY
