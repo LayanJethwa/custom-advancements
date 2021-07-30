@@ -1,4 +1,4 @@
-# custom-advancements
+# custom_advancements
 
 Layan's custom advancements datapack for Minecraft
 
